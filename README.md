@@ -15,6 +15,11 @@ Kali linux
 install python2.7 tkinter xrandr xdg-open
 ```
 
+### How to launch:
+```
+python2.7 Start.py
+```
+
 ### View:
 The search page
 
