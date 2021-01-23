@@ -1,6 +1,6 @@
 # Finding-Tools-Linux-Gui
 
-A very sample tool to use finding command in gui in linux 
+A very sample tool to use finding command in gui on linux 
 
 This program run on python2.7
 
